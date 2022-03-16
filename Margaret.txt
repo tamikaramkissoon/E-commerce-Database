@@ -1,0 +1,10 @@
+	Chair
+	A_book
+	Table
+	Apple_iPhone
+	Umbrella
+	Hammer
+	Apple
+	Snake
+	Toothpaste
+END

@@ -1,0 +1,9 @@
+	Sony_Television
+	Hammer
+	Saw
+	Electric_Saw
+	Apple
+	Snake
+	Toothpaste
+	Crab
+END
